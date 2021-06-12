@@ -10,5 +10,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+
 
 Y como un amable recordatorio **Este readme.md es una broma de una de sus personalidades** Diseñado para ejemplificar. Para mayor información ir a [**tomar el curso**](https://platzi.com/clases/git-github/).
