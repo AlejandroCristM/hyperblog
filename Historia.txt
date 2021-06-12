@@ -6,4 +6,6 @@ Mañana nos enfocaremos en su vida laboral y como logró todo lo que hoy tiene.
 
 Master1
 
+Master 2
+
 Empezó con platzi en el curso de HTML y CSS
